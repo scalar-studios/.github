@@ -1,4 +1,4 @@
-# Scalar Studios.github
+# Scalar Studios
 Welcome to Scalar Studios<br>
 
 Current Projects:<br>

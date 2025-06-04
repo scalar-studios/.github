@@ -5,10 +5,10 @@ Welcome to Scalar Studios
 - [Scalar Studios](scalarstudios.site)
 
 ## Minecraft Mods
-- Scalar Core
-- Scalar Spooky Silver
-- Scalar Spooky Structures
-- Scalar Summer Structures *WIP*
+- [Scalar Core](https://github.com/scalar-studios/ScalarCore)
+- [Scalar Spooky Silver](https://github.com/scalar-studios/SpookySilver)
+- [Scalar Spooky Structures](https://github.com/scalar-studios/SpookyStructures)
+- [Scalar Summer Structures](https://github.com/scalar-studios/ScalarSummerStructures) *WIP*
 
 ## Android Apps
-- Scalar Budget *WIP*
+- [Scalar Budget](https://github.com/scalar-studios/ScalarBudget) *WIP*

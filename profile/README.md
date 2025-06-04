@@ -1,7 +1,14 @@
 # Scalar Studios
-Welcome to Scalar Studios<br>
+Welcome to Scalar Studios  
 
-Current Projects:<br>
-<ul>
-  <li>Dart The Dog - 2D Platformer (Unity Port)</li>
-</ul>
+## Website
+- [Scalar Studios](scalarstudios.site)
+
+## Minecraft Mods
+- Scalar Core
+- Scalar Spooky Silver
+- Scalar Spooky Structures
+- Scalar Summer Structures *WIP*
+
+## Android Apps
+- Scalar Budget *WIP*

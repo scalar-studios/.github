@@ -2,7 +2,8 @@
 Welcome to Scalar Studios  
 
 ## Website
-- [Scalar Studios](scalarstudios.site)
+- Live Website: [Scalar Studios](scalarstudios.site)
+- Repository: [scalar-studios/ScalarStudiosSite](https://github.com/scalar-studios/ScalarStudiosSite)
 
 ## Minecraft Mods
 - [Scalar Core](https://github.com/scalar-studios/ScalarCore)

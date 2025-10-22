@@ -9,4 +9,4 @@ Welcome to Scalar Studios
 - [Scalar Core](https://github.com/scalar-studios/ScalarCore)
 - [Scalar Spooky Silver](https://github.com/scalar-studios/SpookySilver)
 - [Scalar Spooky Structures](https://github.com/scalar-studios/SpookyStructures)
-- [Scalar Summer Structures](https://github.com/scalar-studios/ScalarSummerStructures) *WIP*
+- [Scalar Summer Structures](https://github.com/scalar-studios/ScalarSummerStructures) 

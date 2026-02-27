@@ -5,6 +5,12 @@ Welcome to Scalar Studios
 - Live Website: [Scalar Studios](scalarstudios.site)
 - Repository: [scalar-studios/ScalarStudiosSite](https://github.com/scalar-studios/ScalarStudiosSite)
 
+## Standalone Applications
+### GUI
+- [Scalar Budget](https://github.com/scalar-studios/ScalarBudget)
+### Command Line
+- [MonoColor](https://github.com/scalar-studios/MonoColor)
+
 ## Crusader Kings 3 Mods
 - [Scalar Free Disinherits](https://github.com/scalar-studios/CK3_Scalar_Free_Disinherits)
 - [Scalar Map Mode Buttons](https://github.com/scalar-studios/CK3_Scalar_Map_Mode_Buttons)
